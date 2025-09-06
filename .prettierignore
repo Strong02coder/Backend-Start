@@ -1,0 +1,9 @@
+/.vscode
+/node_modules
+/dist
+
+*.env
+.env
+.env.*
+.bun.lock
+package-lock.json
